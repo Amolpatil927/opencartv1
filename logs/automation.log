@@ -1,0 +1,24 @@
+2025-09-17 12:12:07 INFO  TC01_AccountRegistrasion:14 - ** Starting TC01_AccountRegistrasion  **
+2025-09-17 12:12:07 INFO  TC01_AccountRegistrasion:19 - Clicking on MyAccount
+2025-09-17 12:12:08 INFO  TC01_AccountRegistrasion:21 - Clicking on Register
+2025-09-17 12:12:09 INFO  TC01_AccountRegistrasion:25 - Providing customer details for registration
+2025-09-17 12:12:09 INFO  TC01_AccountRegistrasion:26 - Entering the First Name
+2025-09-17 12:12:09 INFO  TC01_AccountRegistrasion:28 - Entering the last name
+2025-09-17 12:12:09 INFO  TC01_AccountRegistrasion:30 - Entering the email
+2025-09-17 12:12:09 INFO  TC01_AccountRegistrasion:32 - Entering the Telephone Number
+2025-09-17 12:12:09 INFO  TC01_AccountRegistrasion:34 - Entering the Password and confirm password
+2025-09-17 12:12:10 INFO  TC01_AccountRegistrasion:38 - Clicking on Privacy policy checkbox
+2025-09-17 12:12:10 INFO  TC01_AccountRegistrasion:40 - Clicking on Continue button
+2025-09-17 12:12:11 INFO  TC01_AccountRegistrasion:49 - ** End of TC01_AccountRegistrasion ** 
+2025-09-17 12:15:40 INFO  TC01_AccountRegistrasion:14 - ** Starting TC01_AccountRegistrasion  **
+2025-09-17 12:15:40 INFO  TC01_AccountRegistrasion:19 - Clicking on MyAccount
+2025-09-17 12:15:40 INFO  TC01_AccountRegistrasion:21 - Clicking on Register
+2025-09-17 12:15:41 INFO  TC01_AccountRegistrasion:25 - Providing customer details for registration
+2025-09-17 12:15:41 INFO  TC01_AccountRegistrasion:26 - Entering the First Name
+2025-09-17 12:15:42 INFO  TC01_AccountRegistrasion:28 - Entering the last name
+2025-09-17 12:15:42 INFO  TC01_AccountRegistrasion:30 - Entering the email
+2025-09-17 12:15:42 INFO  TC01_AccountRegistrasion:32 - Entering the Telephone Number
+2025-09-17 12:15:42 INFO  TC01_AccountRegistrasion:34 - Entering the Password and confirm password
+2025-09-17 12:15:42 INFO  TC01_AccountRegistrasion:38 - Clicking on Privacy policy checkbox
+2025-09-17 12:15:43 INFO  TC01_AccountRegistrasion:40 - Clicking on Continue button
+2025-09-17 12:15:44 INFO  TC01_AccountRegistrasion:49 - ** End of TC01_AccountRegistrasion ** 
